@@ -13,4 +13,4 @@ jobs:
       with:
         server: fpt.weareicers.com
         username: fptgitsample@weareicers.com
-        password: ${{ secrets.FTP_PASSWORD }}
+        password: nJ#aA;#_dliw
