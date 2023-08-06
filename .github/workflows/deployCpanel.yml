@@ -13,7 +13,7 @@ jobs:
 
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
-        with:
+      with:
           server: weareicers.com
           username: fptgitsample@weareicers.com
           password: nJ#aA;#_dliw
