@@ -14,6 +14,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
+          server-timeout: 180
           server: 125.235.4.59
           username: fptgitsample@weareicers.com
           password: nJ#aA;#_dliw
