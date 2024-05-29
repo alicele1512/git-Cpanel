@@ -13,6 +13,8 @@ jobs:
 
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      env:
+          DEBUG: '*'
       with:
           server: 27.74.246.81
           username: fptgitsample@weareicers.com
