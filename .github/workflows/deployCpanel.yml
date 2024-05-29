@@ -17,3 +17,4 @@ jobs:
           server: 27.74.246.81
           username: fptgitsample@weareicers.com
           password: nJ#aA;#_dliw
+          timeout: 120
