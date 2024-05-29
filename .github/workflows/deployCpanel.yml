@@ -16,7 +16,7 @@ jobs:
       env:
           DEBUG: '*'
       with:
-          server: 27.74.246.81
+          server: ftp.weareicers.com
           username: fptgitsample@weareicers.com
           password: nJ#aA;#_dliw
           timeout: 120
