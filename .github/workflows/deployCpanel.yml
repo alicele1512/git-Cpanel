@@ -13,10 +13,7 @@ jobs:
 
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-      env:
-          DEBUG: '*'
       with:
-          server: weareicers.com
+          server: ftp.weareicers.com
           username: fptgitsample@weareicers.com
           password: nJ#aA;#_dliw
-          timeout: 120
